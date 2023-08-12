@@ -1,5 +1,5 @@
 All of my scripts in one place.
-You can get them here or in my discord.
+You can get the loadstrings in my discord.
 .gg/UzeJe39ecy
 ---------------
 
